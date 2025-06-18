@@ -1,5 +1,5 @@
 body {
-  background: hsl(0, 0%, 100%);
+  background: hsl(0, 64%, 82%);
   font-family: sans-serif;
   margin: 0;
   padding: 0;
@@ -30,7 +30,7 @@ body {
 
 .info {
   color: #000000;
-  opacity: 0.5;
+  opacity: 0.3;
   font-family: sans-serif;
 }
 
@@ -43,3 +43,4 @@ a {
 a:hover {
   color: rgb(255, 99, 71);
 }
+
